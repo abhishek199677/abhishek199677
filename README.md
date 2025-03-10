@@ -2,6 +2,42 @@
 <h1 align="center">I'm Abhishek 😀</h1>
 <h4 align="center">I,m skilled in Python and machine learning, working on various data-related projects </h4>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek199677&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek199677" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek199677" alt="abhishek199677" /></a> </p>
+
+- 🌱 I’m currently learning **Data Science**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/p-abhishek-56a5301b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/p-abhishek-56a5301b7/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/abhishk1611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhishk1611" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/abhishk1611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/abhishk1611" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/abhishk1611/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/abhishk1611/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/abhishk1611/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/abhishk1611/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek199677&show_icons=true&locale=en&layout=compact" alt="abhishek199677" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek199677&show_icons=true&locale=en" alt="abhishek199677" /></p>
+
+
+                                                                                                                                                                       
+
+<br>
+
+<hr>
+
+[linkedin]: https://www.linkedin.com/in/p-abhishek-56a5301b7/
+[twitter]: https://x.com/AbhishekFactly
+[github] : https://github.com/abhishek199677
+
+
+
+
 
 
 ### I have project experience and interests in:
@@ -25,27 +61,4 @@
 
 
 
-<!-- <hr>
-
-<p><img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;154299027_702927223737487_3316660563751783251_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;107&amp;_nc_ohc&#x3D;EB4ZbXhG1MIAX_X7uls&amp;oh&#x3D;0f1962630e688514ffc312a6ef83d313&amp;oe&#x3D;60688FC2" /> <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;152823526_174537657553375_254380529862366324_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;107&amp;_nc_ohc&#x3D;O6xxL36t11IAX8-25ur&amp;oh&#x3D;6c28c16b56aa43f5bcd0a5cc9384ec28&amp;oe&#x3D;60411750" /> <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c149.0.781.781a&#x2F;s640x640&#x2F;152013126_4328412427197138_5736411879368288581_n.jpg?tp&#x3D;1&amp;_nc_ht&#x3D;instagram.flwo4-2.fna.fbcdn.net&amp;_nc_cat&#x3D;106&amp;_nc_ohc&#x3D;8f2IpAlp_OMAX_1scup&amp;oh&#x3D;e58960d73dbe0e8dd5ec0b79bfdadd83&amp;oe&#x3D;6066A23D" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/c17hawke/" target="_blank"><br>@c17hawke!</a> on Instagram</p>
-
-<hr> -->
-
-#### You can also find me on: 
-
-[<img align="left" alt="abhishek | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="abhishek | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="abhishek199677 | GitHub" width="30px" src="https://img.icons8.com/color/48/000000/github--v1.png" />][github]
-
-
-                                                                                                                                                                       
-
-<br>
-
-<hr>
-
-[linkedin]: https://www.linkedin.com/in/p-abhishek-56a5301b7/
-[twitter]: https://x.com/AbhishekFactly
-[github] : https://github.com/abhishek199677
 
